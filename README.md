@@ -14,6 +14,12 @@ I have implement 3 version of AUTC (numpy, torch, tensorflow).
 - Tensorflow
 ![](assets/tf.jpg)
 
+# Requirement
+- numpy
+- pytorch (optional)
+- tensorflow (optional)
+- matplotlib
+
 # Example
 [main_numpy.ipynb](main_numpy.ipynb)  
 [main_tf.ipynb](main_tf.ipynb)  
