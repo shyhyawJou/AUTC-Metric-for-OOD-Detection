@@ -17,3 +17,6 @@ I have implement 3 version of AUTC (numpy, torch, tensorflow).
 [main_numpy.ipynb](main_numpy.ipynb)  
 [main_tf.ipynb](main_tf.ipynb)  
 [main_torch.ipynb](main_torch.ipynb)  
+
+# Note
+I test pytorch 2.0, I found torch.histogram cannot run on gpu, so torch version of autc only support cpu tensor so far.
