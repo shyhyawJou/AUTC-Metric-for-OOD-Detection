@@ -7,10 +7,13 @@ The smaller the AUTC is, the strong ability for detecting OOD sample the model h
 # Demo
 I have implement 3 version of AUTC (numpy, torch, tensorflow).
 - Numpy
-[](assets/np.jpg)
-- torch
-[](assets/pt.jpg)
-- tensorflow
-[](assets/tf.jpg)
+![](assets/np.jpg)
+- Torch
+![](assets/pt.jpg)
+- Tensorflow
+![](assets/tf.jpg)
 
 # Example
+[main_numpy.ipynb](main_numpy.ipynb)  
+[main_tf.ipynb](main_tf.ipynb)  
+[main_torch.ipynb](main_torch.ipynb)  
