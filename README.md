@@ -5,7 +5,8 @@ Author thus proposed a new metric called "area under threshold curve (AUTC)".
 The smaller the AUTC is, the strong ability for detecting OOD sample the model has.
 
 # Demo
-I have implement 3 version of AUTC (numpy, torch, tensorflow).
+I have implement 3 version of AUTC (numpy, torch, tensorflow).  
+3 version above are all excusive of scikit-learn.
 - Numpy
 ![](assets/np.jpg)
 - Torch
