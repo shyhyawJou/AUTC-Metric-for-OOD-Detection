@@ -17,8 +17,8 @@ This metric take __separability__ in consideration.
 
 # Requirement
 - numpy
-- pytorch
-- tensorflow
+- pytorch (optional)
+- tensorflow (optional)
 - matplotlib (optional, just for visualizing the FPR, FNR)
 - scikit-learn (optional, just for computing AUROC)
   
