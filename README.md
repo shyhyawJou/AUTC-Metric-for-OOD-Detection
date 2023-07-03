@@ -7,7 +7,7 @@ The smaller the AUTC is, the strong ability for detecting OOD sample the model h
 # Demo
 I have implement 3 version of AUTC (numpy, torch, tensorflow).  
 3 version above are all excusive of scikit-learn.  
-This metric take separability in consideration.
+This metric take __separability__ in consideration.
 - Numpy
 ![](assets/np.jpg)
 - Torch
